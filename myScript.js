@@ -1,4 +1,4 @@
-func buttonMessage() {
+function buttonMessage() {
   
 alert("De ce apesi?");
   
