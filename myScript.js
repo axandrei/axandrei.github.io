@@ -11,14 +11,14 @@ alert("Mai apesi mult pe butoane?");
 }
 
 function cineEsti() {
-promt("Cine esti?");  
+prompt("Cine esti?");  
 }
 
 function ceFaci() {
- promt("Ce mai faci?");
+ prompt("Ce mai faci?");
 }
 
 
 function ceCautiAici() {
-  promt("Ce cauti aici?")
+  prompt("Ce cauti aici?")
 }
