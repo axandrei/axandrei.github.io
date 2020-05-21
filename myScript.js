@@ -11,7 +11,8 @@ alert("Mai apesi mult pe butoane?");
 }
 
 function cineEsti() {
-prompt("Cine esti?");  
+let val=prompt("Cine esti?");
+document.getElementById("salut").innerHTML="Salut " + val;  
 }
 
 function ceFaci() {
