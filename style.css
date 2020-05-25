@@ -28,4 +28,16 @@
   cursor: pointer;
 }
 
+#orange {
+ background-color: DarkOrange;
+}
+
+#blue {
+ background-color: MediumTurquoise;
+}
+
+#green {
+ background-color: YellowGreen;
+}
+
  
