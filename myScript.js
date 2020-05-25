@@ -27,3 +27,17 @@ let val=prompt("Ce cauti aici?");
 document.getElementById("oke").innerHTML="Nu o sa gasesti " + val + " aici";
   
 }
+
+function colorOrange() {
+  document.getElementsByTagName("body")[0].style.backgroundColor="DarkOrange";
+  
+}
+
+function colorBlue() {
+  document.getElementsByTagName("body")[0].style.backgroundColor="MediumTurquoise";
+  
+}
+
+function colorGreen() {
+  document.getElementsByTagName("body")[0].style.backgroundColor="YellowGreen";
+}
