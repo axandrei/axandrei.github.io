@@ -16,10 +16,14 @@ document.getElementById("salut").innerHTML="Salut " + val;
 }
 
 function ceFaci() {
- prompt("Ce mai faci?");
+let val=prompt("Ce mai faci?");
+document.getElementById("bine").innerHTML="Daca faci" + val + "eu fac bine";
+ 
 }
 
 
 function ceCautiAici() {
-  prompt("Ce cauti aici?")
+let val=prompt("Ce cauti aici?");
+document.getElementById("oke").innerHTML="Nu o sa gasesti" + val + "aici";
+  
 }
